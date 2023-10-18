@@ -4,10 +4,16 @@ en anderzijds om te kunnen showen met een paar indrukwekkende foto's!
 
 Voor deel 1 ga ik een deel van de foto's die ik wil gebruiken hier al zetten maar doorheen de weken zal ik er meer toevoegen.
 Ik heb namelijk honderden foto's die ik mogelijks kan gebruiken.
-
+------------------------------------------------
+gelijkaardige websites:
+https://www.spotterguide.net/planespotting/europe/belgium/kleine-brogel-air-base-ebbl/ 
+https://www.31tigersqn.be/
+https://www.belgianairforcedays.be/nl/
 
 ------------------------------------------------
 (tekst belgische luchtmacht)
+titel: Belgische luchtmacht
+
 
 De Belgische Luchtmacht is een belangrijk onderdeel van de Belgische strijdkrachten en is verantwoordelijk voor een breed scala aan luchtvaart gerelateerde operaties.
 Zij spelen een cruciale rol bij het waarborgen van de nationale veiligheid, met bijzondere aandacht voor luchtverdediging, surveillance en luchtsteun.
@@ -28,6 +34,7 @@ Ze maken de snelle mobilisatie van troepen en materieel op nationaal en internat
 
 ---------------------------------------------------
 (tekst Kleine Brogel)
+Titel Kleine Brogel
 Vliegbasis Kleine Brogel, gelegen in Noord-Limburg, België, is een strategische en belangrijke faciliteit van de Belgische luchtmacht.
 Het is een van de twee belangrijkste operationele luchtmachtbases van het land, de andere is Florennes.
 
@@ -45,6 +52,7 @@ Met zijn multifunctionele en strategische functies blijft de vliegbasis Kleine B
 
 ------------------------------------------------------
 (text 31ste squadron)
+Titel 31ste squadron
 
 Het 31ste Squadron van de Belgische Luchtmacht, ook wel bekend als het "Tiger" Squadron, is een van de bekendste eenheden van de Belgische militaire luchtvaartvloot.
 Opgericht in 1951, het is rijk aan geschiedenis en traditie met zijn kenmerkende tijgerembleem.
@@ -58,6 +66,7 @@ en draagt bij aan de veiligheid en verdediging van België en haar bondgenoten.
 
 -------------------------------------------------------
 (text transportvliegtuigen)
+Titel Belgische Transportvliegtuigen
 
 De Belgische Luchtmacht heeft jarenlang de veelzijdige C-130 Hercules-transportvliegtuigen gebruikt voor een breed scala aan luchtopdrachten,\
 waaronder troepenvervoer, vrachttransport en medische evacuaties.
@@ -69,6 +78,8 @@ De overstap naar de A400M is een belangrijke moderniseringsstap voor de Belgisch
 
  -------------------------------------------------------
  (text helicopters)
+ Titel Belgische helicopters
+
  De Belgische Luchtmacht heeft een vloot helikopters die cruciaal is voor een breed scala aan militaire en humanitaire missies.
  Een opvallende aanwinst is de NH90, een modern en veelzijdig maritiem helikopterplatform.
  De NH90 biedt geavanceerde functionaliteit voor antisubmarine-oorlogvoering, zoek- en reddingsoperaties en transport van troepen en vracht.
@@ -79,6 +90,8 @@ De overstap naar de A400M is een belangrijke moderniseringsstap voor de Belgisch
 
 ------------------------------------------------------------
  (text spotting/fotografie)
+ Titel Spotting
+
  Militaire vliegtuigfotografie, ook wel bekend als spotting, is een boeiende hobby en een vorm van luchtvaartenthousiasme waarbij liefhebbers militaire vliegtuigen vastleggen op beeld.
  Dit kunnen zowel gevechtsvliegtuigen als transportvliegtuigen en helikopters zijn.
  Spotting trekt mensen aan vanwege hun interesse in de luchtvaart, technologie en militaire geschiedenis.
